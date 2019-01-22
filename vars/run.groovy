@@ -1,11 +1,6 @@
 //@Library('mylib')
 
-import com.mycorp.pipeline.somelib.Helper
-
-int useSomeLib(Helper helper) {
-    print("Hello")
-    helper.prepare()
-    return helper.count()
+def info(message)
+{
+echo "Info : ${MESSAGE}"
 }
-
-echo useSomeLib(new Helper('For Testing'))
