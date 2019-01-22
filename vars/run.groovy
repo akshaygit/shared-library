@@ -1,4 +1,4 @@
-@Library('mylib')
+//@Library('mylib')
 
 import com.mycorp.pipeline.somelib.Helper
 
