@@ -2,5 +2,5 @@
 
 def info(message)
 {
-echo "Info : ${MESSAGE}"
+  echo "Info : ${message}"
 }
